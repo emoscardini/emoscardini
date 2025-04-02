@@ -34,7 +34,7 @@ They are the creators of an awesome tech:
   ![Windows](https://img.shields.io/badge/-Windows-0078D4?logo=microsoft-windows&logoColor=white)
 
 ## Cloud Providers
-  [![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
+  [![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonwebservices&logoColor=white)](https://aws.amazon.com)
   [![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com)
   [![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white)](https://cloud.google.com)
   [![OCI](https://img.shields.io/badge/-OCI-FF6A00?logo=oracle&logoColor=white)](https://www.oracle.com/cloud)
@@ -48,7 +48,9 @@ They are the creators of an awesome tech:
 ## Development Tools
   [![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)](https://www.postman.com)
   [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
-  [![VIM](https://img.shields.io/badge/-VIM-black?logo=vim&logoColor=white)](https://www.vim.org)
+  [![VIM](https://img.shields.io/badge/-VIM-black?logo=vim&logoColor=green)](https://www.vim.org)
+  [![Jekins](https://img.shields.io/badge/-jenkins-red?logo=jenkins&logoColor=black)](https://github.com/jenkinsci)
+  [![Artifactory](https://img.shields.io/badge/-artifactory-green?logo=jfrog&logoColor=black)](https://jfrog.com/)
 
 ## Stats
 ![emoscardini's Stats](https://github-readme-stats.vercel.app/api?username=emoscardini&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
