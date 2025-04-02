@@ -52,5 +52,12 @@ They are the creators of an awesome tech:
   [![Jekins](https://img.shields.io/badge/-jenkins-red?logo=jenkins&logoColor=black)](https://github.com/jenkinsci)
   [![Artifactory](https://img.shields.io/badge/-artifactory-green?logo=jfrog&logoColor=black)](https://jfrog.com/)
 
+## Programing languages
+
+  [![Python](https://img.shields.io/badge/-python-blue?logo=python&logoColor=yellow)](https://jfrog.com/)
+  [![Bash Script](https://img.shields.io/badge/-bash-script?logo=gnu-bash&logoColor=white)](https://git.savannah.gnu.org/cgit/bash.git/)
+  [![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?logo=powershell&logoColor=white)](https://github.com/PowerShell/PowerShell)
+  
+
 ## Stats
 ![emoscardini's Stats](https://github-readme-stats.vercel.app/api?username=emoscardini&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
