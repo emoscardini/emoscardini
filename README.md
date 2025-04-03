@@ -25,7 +25,9 @@ They are the creators of an awesome tech:
 ## Configuration Management Tools
   [![Ansible](https://img.shields.io/badge/-Ansible-black?logo=ansible&logoColor=white)](https://github.com/ansible/ansible)
   [![CloudFormation](https://img.shields.io/badge/-CloudFormation-FF9900?logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/cloudformation/)
+  [![Terraform](https://img.shields.io/badge/-terraform-black?logo=terraform&logoColor=white)](https://github.com/hashicorp/terraform)
   [![SaltStack](https://img.shields.io/badge/-SaltStack-black?logo=saltproject&logoColor=white)](https://github.com/saltstack/salt)
+
 
 ## Operating Systems
   [![Debian](https://img.shields.io/badge/-Debian-A80030?logo=debian&logoColor=white)](https://github.com/debian)
